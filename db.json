@@ -3,12 +3,14 @@
     {
       "nombre": "Iran Aguirre",
       "email": "iranaguirre@alura.com",
-      "id": 1
+      "id": 1,
+      "password": "shfldj65@jdf"
     },
     {
       "nombre": "Rayane Rodrigues",
       "email": "rayane@alura.com",
-      "id": 2
+      "id": 2,
+      "password": "575hfksj#@"
     }
   ]
 }
